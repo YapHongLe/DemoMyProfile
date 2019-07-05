@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo My Profile</string>
+    <string name="textVIewName">name</string>
+    <string name="name">textViewName</string>
+    <string name="gpa">textViewGPA</string>
+    <string name="namee">Name</string>
+    <string name="gpaa">GPA</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="save">SAVE</string>
+</resources>
